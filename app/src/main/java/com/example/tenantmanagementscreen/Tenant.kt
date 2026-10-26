@@ -2,7 +2,6 @@ package com.example.tenantmanagementscreen
 
 import java.io.Serializable
 
-// ": Serializable" lets a Tenant be packed up and sent to another screen
 data class Tenant(
     val name: String,
     val phone: String,

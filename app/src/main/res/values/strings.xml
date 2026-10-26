@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tenant Management Screen</string>
+    <string name="tenant_name">Tenant name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="monthly_rent">Monthly rent (KSh)</string>
+    <string name="save">Save</string>
 </resources>
